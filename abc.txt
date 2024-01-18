@@ -3,6 +3,3 @@ This is Demo File for github
 my name is ashish
 
 this time i have somthing to be change in file
-
-
-now its time for changes on a branch;
