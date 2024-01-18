@@ -2,8 +2,4 @@ This is Demo File for github
 
 my name is ashish
 
-<<<<<<< HEAD
 hope this is not conflict
-=======
-this is bound to get trouble
->>>>>>> very-bad
