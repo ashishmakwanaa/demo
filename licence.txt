@@ -1,3 +1,5 @@
 This is another files of git demo and it is Licence.txt file 
 
 this is a change for fetch and pull and fetch2 and pull2
+
+and now i want to do from my remote to local
