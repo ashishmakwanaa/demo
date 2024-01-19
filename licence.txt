@@ -6,3 +6,5 @@ and now i want to do from my remote to local
 
 
 this is the secntence for compare the branches right
+
+this for creating new branch
