@@ -1,0 +1,19 @@
+This is another files of git demo and it is Licence.txt file 
+
+this is a change for fetch and pull and fetch2 and pull2
+
+and now i want to do from my remote to local
+
+
+this is the secntence for compare the branches right
+
+this for creating new branch
+
+
+this is for also again create new branch 
+
+abcdef
+
+ghijklm
+
+nopqrstuv
