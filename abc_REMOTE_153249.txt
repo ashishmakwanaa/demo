@@ -4,7 +4,11 @@ my name is ashish
 
 this is bound to get trouble
 
+<<<<<<< HEAD
 
 
 
 hey
+=======
+hii 
+>>>>>>> example
