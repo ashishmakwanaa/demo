@@ -17,5 +17,3 @@ abcdef
 ghijklm
 
 nopqrsteuvwxyz
-
-abdcend
