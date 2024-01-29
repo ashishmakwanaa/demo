@@ -2,4 +2,8 @@ hey hiii i am ashish
 
 i am in surat, INDIA
 
+<<<<<<< Updated upstream
 but next week i am goig to vadodara on 3rd feb 2024
+=======
+but next week i am goig to vadodara because i have a presentation
+>>>>>>> Stashed changes
